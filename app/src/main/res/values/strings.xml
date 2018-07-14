@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shortcuts</string>
+    <string name="show_btn">show</string>
+    <string name="contacts_shortcut_long_label1">show_contacts</string>
+    <string name="contacts_shortcut_short_label1">show_contacts</string>
+    <string name="test_shortcut_short_label1">test screen</string>
+    <string name="test_shortcut_long_label1">test screen</string>
+    <string name="shortcut_test">Shortcut test ***</string>
+    <string name="test">show test</string>
+    <string name="show_contacts">show contacts</string>
+</resources>
